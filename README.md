@@ -11,3 +11,15 @@ City-wise order analysis
 Revenue visualization
 Monthly trend tracking
 CSV report export
+
+Technologies Used:
+  Python
+  Pandas
+  Matplotlib
+  Seaborn
+Features:
+  Load and explore sales data
+  Data cleaning
+  Trend analysis
+  Visualization
+  Export reports
